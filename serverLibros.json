@@ -1,0 +1,87 @@
+{
+  "item":
+ [{
+   "title": "12 Leyes de los Grandes Empresarios",
+   "link": "https://raw.githubusercontent.com/yoel1993/Repo/master/Libros/1%20-%2012%20Leyes%20de%20los%20Grandes%20Empresarios%20-%20Mauricio%20Chaves%20Mesen.pdf",
+   "author": "Mauricio Chaves Mesen",
+   "description": "describe",
+   "caratula": "https://raw.githubusercontent.com/yoel1993/Repo/master/Libros/1%20-%2012%20Leyes%20de%20los%20Grandes%20Empresarios%20-%20Mauricio%20Chaves%20Mesen.png"
+  },
+  {
+    "title": "Antes de Renunciar a Tu Empleo",
+    "link": "https://raw.githubusercontent.com/yoel1993/Repo/master/Libros/2%20-%20Antes%20de%20Renunciar%20a%20Tu%20Empleo%20-%20Robert%20Kiyosaki.pdf",
+    "author": "Robert Kiyosaki",
+    "description": "describe",
+    "caratula": "https://raw.githubusercontent.com/yoel1993/Repo/master/Libros/2%20-%20Antes%20de%20Renunciar%20a%20Tu%20Empleo%20-%20Robert%20Kiyosaki.png"
+  },
+  {
+   "title": "Como estudiar y aprender más y mejor en menos tiempo",
+   "link": "https://raw.githubusercontent.com/yoel1993/Repo/master/Libros/3%20-%20Como%20estudiar%20y%20aprender%20m%C3%A1s%20y%20mejor%20en%20menos%20tiempo%20-%20Richard%20M.%20Fenker.pdf",
+   "Author": "Richard M. Fenker",
+   "description": "describe",
+   "caratula": "https://raw.githubusercontent.com/yoel1993/Repo/master/Libros/3%20-%20Como%20estudiar%20y%20aprender%20m%C3%A1s%20y%20mejor%20en%20menos%20tiempo%20-%20Richard%20M.%20Fenker.png"
+  },
+  {
+   "title": "El arte de hacer dinero",
+   "link": "https://raw.githubusercontent.com/yoel1993/Repo/master/Libros/4%20-%20El%20arte%20de%20hacer%20dinero%20-%20Mario%20Borghino.pdf",
+   "author": "Mario Borghino",
+   "description": "describe",
+   "caratula": "https://raw.githubusercontent.com/yoel1993/Repo/master/Libros/4%20-%20El%20arte%20de%20hacer%20dinero%20-%20Mario%20Borghino.png"
+  },
+  {
+   "title": "El Arte de Negociar y Persuadir",
+   "link": "https://raw.githubusercontent.com/yoel1993/Repo/master/Libros/5%20-%20El%20Arte%20de%20Negociar%20y%20Persuadir%20-%20Allan%20Pease.pdf",
+   "author": "Allan Pease",
+   "description": "describe",
+   "caratula": "https://raw.githubusercontent.com/yoel1993/Repo/master/Libros/5%20-%20El%20Arte%20de%20Negociar%20y%20Persuadir%20-%20Allan%20Pease.png"
+  },
+  {
+   "title": "El Código Del Dinero",
+   "link": "https://raw.githubusercontent.com/yoel1993/Repo/master/Libros/6%20-%20El%20C%C3%B3digo%20Del%20Dinero%20-%20Raimon%20Sams%C3%B3.pdf",
+   "author": "Raimon Samsó",
+   "description": "describe",
+   "caratula": "https://raw.githubusercontent.com/yoel1993/Repo/master/Libros/6%20-%20El%20C%C3%B3digo%20Del%20Dinero%20-%20Raimon%20Sams%C3%B3.png"
+  },
+  {
+   "title": "El hombre más rico de Babilonia",
+   "link": "https://raw.githubusercontent.com/yoel1993/Repo/master/Libros/7%20-%20El%20hombre%20m%C3%A1s%20rico%20de%20Babilonia%20-%20George%20S.%20Clason.pdf",
+   "author": "George S. Clason",
+   "description": "describe",
+   "caratula": "https://raw.githubusercontent.com/yoel1993/Repo/master/Libros/7%20-%20El%20hombre%20m%C3%A1s%20rico%20de%20Babilonia%20-%20George%20S.%20Clason.png"
+  },
+  {
+   "title": "Las Cinco Piezas del Rompecabezas de la Vida",
+   "link": "https://raw.githubusercontent.com/yoel1993/Repo/master/Libros/8%20-%20Las%20Cinco%20Piezas%20del%20Rompecabezas%20de%20la%20Vida%20-%20Jim%20Rohn.pdf",
+   "author": "Jim Rohn",
+   "description": "describe",
+   "caratula": "https://raw.githubusercontent.com/yoel1993/Repo/master/Libros/8%20-%20Las%20Cinco%20Piezas%20del%20Rompecabezas%20de%20la%20Vida%20-%20Jim%20Rohn.png"
+  },
+  {
+   "title": "La Biblia Del Vendedor",
+   "link": "https://raw.githubusercontent.com/yoel1993/Repo/master/Libros/9%20-%20La%20Biblia%20Del%20Vendedor%20-%20Alex%20Dey.pdf",
+   "author": "Alex Dey",
+   "description": "describe",
+   "caratula": "https://raw.githubusercontent.com/yoel1993/Repo/master/Libros/9%20-%20La%20Biblia%20Del%20Vendedor%20-%20Alex%20Dey.png"
+  },
+  {
+   "title": "Los 7 hábitos de la gente altamente efectiva",
+   "link": "https://raw.githubusercontent.com/yoel1993/Repo/master/Libros/10%20-%20Los%207%20habitos%20de%20la%20gente%20altamente%20efectiva%20-%20Stephen%20R.%20Covey.pdf",
+   "author": "Stephen R. Covey",
+   "description": "describe",
+   "caratula": "https://raw.githubusercontent.com/yoel1993/Repo/master/Libros/10%20-%20Los%207%20habitos%20de%20la%20gente%20altamente%20efectiva%20-%20Stephen%20R.%20Covey.png"
+  },
+  {
+   "title": "Padre Rico Padre Pobre",
+   "link": "https://raw.githubusercontent.com/yoel1993/Repo/master/Libros/11%20-%20Padre%20Rico%20Padre%20Pobre%20-%20Robert%20Kiyosaki.pdf",
+   "author": "Robert Kiyosaki",
+   "description": "describe",
+   "caratula": "https://raw.githubusercontent.com/yoel1993/Repo/master/Libros/11%20-%20Padre%20Rico%20Padre%20Pobre%20-%20Robert%20Kiyosaki.png"
+  },
+  {
+   "title": "Su Primer Año En El Network Marketing",
+   "link": "https://raw.githubusercontent.com/yoel1993/Repo/master/Libros/12%20-%20Su%20Primer%20A%C3%B1o%20En%20El%20Network%20Marketing%20-%20Mark%20y%20Rene%20Yarnell.pdf",
+   "author": "Mark y Rene Yarnell",
+   "description": "describe",
+   "caratula": "https://raw.githubusercontent.com/yoel1993/Repo/master/Libros/12%20-%20Su%20Primer%20A%C3%B1o%20En%20El%20Network%20Marketing%20-%20Mark%20y%20Rene%20Yarnell.png"
+  }]
+}
